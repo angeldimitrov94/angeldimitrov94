@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angeldimitrov94
 - 👀 I’m interested in ... distributed systems and microservice software architectures
-- 🌱 I’m currently learning ... NodeJS, TypeScript
+- ⚙️ Currently working on [https://www.nexuseol.com/portal](https://www.nexuseol.com/portal) on the side
 - 📫 How to reach me ... angeldimitrov94@gmail.com
 
 <!---
