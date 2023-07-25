@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angeldimitrov94
 - 👀 I’m interested in ... distributed systems and microservice software architectures
-- ⚙️ Currently working on [https://www.nexuseol.com/portal](https://www.nexuseol.com/portal) on the side
+- ⚙️ Currently working on [https://www.nexuseol.com](https://www.nexuseol.com) on the side
 - 📫 How to reach me ... angeldimitrov94@gmail.com
 
 <!---
